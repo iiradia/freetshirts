@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.py
+freetshirts/CollegeEmails.csv
+freetshirts/__init__.py
+freetshirts/message.txt
+freetshirts.egg-info/PKG-INFO
+freetshirts.egg-info/SOURCES.txt
+freetshirts.egg-info/dependency_links.txt
+freetshirts.egg-info/not-zip-safe
+freetshirts.egg-info/requires.txt
+freetshirts.egg-info/top_level.txt

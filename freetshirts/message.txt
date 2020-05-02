@@ -1,0 +1,18 @@
+Dear ${PERSON_NAME},
+
+Just wanted to write to you personally because I've heard good things about your campus and school and am interested. I'm currently a high school junior, and I wanted to see if you had any t-shirts or other merchandise available so I could represent your school!
+
+${MAJOR} 
+I'm feel I would be a great fit for your school, and I would definitely shine there. If you have any t-shirts, hoodies, pennants, or such I'd appreciate it greatly!
+
+My address is:
+
+${ADDRESS}
+
+and my t-shirt size is Adult ${TSHIRT}.
+
+Thank you so much!
+
+Sincerely,
+
+${FIRST_NAME}
