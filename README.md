@@ -17,7 +17,7 @@ import freetshirts
 
 #this function will take your user input to customize your message!
 #Once you have entered the inputs, make sure to confirm you want to send the email, and your email will be off to 1500+ colleges!
-foobar.send_email()
+freetshirts.send_email()
 ```
 
 ## Contributing
