@@ -1,6 +1,7 @@
 # freetshirts
 
 freetshirts is a Python library to send customized emails to 1500+ colleges requesting free merchandise.
+This Python package is a minimalistic and effective way to request merchandise at a large s
 
 ## Installation
 
@@ -15,8 +16,8 @@ pip install freetshirts
 ```python
 import freetshirts
 
-#this function will take your user input to customize your message!
-#Once you have entered the inputs, make sure to confirm you want to send the email, and your email will be off to 1500+ colleges!
+# this function will take your user input to customize your message!
+# Once you have entered the inputs, make sure to confirm you want to send the email, and your email will be off to 1500+ colleges!
 freetshirts.send_email()
 ```
 
