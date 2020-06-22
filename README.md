@@ -1,3 +1,4 @@
+[![Downloads](https://pepy.tech/badge/freetshirts)](https://pepy.tech/project/freetshirts)
 # freetshirts
 
 freetshirts is a Python library to send customized emails to 1500+ colleges requesting free merchandise.
